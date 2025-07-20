@@ -6,7 +6,7 @@ import io
 import time
 
 # Configure Gemini API (Replace 'YOUR_GEMINI_API_KEY' with your actual key)
-genai.configure(api_key="AIzaSyCm7-EAoO2x_0rv3a4ss7BplHwWx-MUHUo")
+genai.configure(api_key="YOUR API KEY")
 
 # Custom CSS for styling
 st.markdown(
